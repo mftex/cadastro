@@ -4,4 +4,4 @@ Endpoints implementados com FastAPI.
 
 Estrutura de database ORM com implementação no sqlite (pode facilmente ser migrado para MySQL, MSSQL, etc.)
 
-Camada de front-end com HTML, CSS, Bootstrap e JavaScript. 
+Camada de front-end com HTML, CSS, Bootstrap, Ajax e JavaScript. 
